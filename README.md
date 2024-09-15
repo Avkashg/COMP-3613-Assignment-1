@@ -1,6 +1,6 @@
 # COMP-3613-Assignment-1
 
-Commands:
+Commands:/n
   apply-job         Applies for a job
   create-applicant  Creates a new applicant
   create-job        Creates a new job
