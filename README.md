@@ -1,6 +1,5 @@
 # COMP-3613-Assignment-1
-
-**Commands:**
+## Commands
 
 ***apply-job***         > Applies for a job 
 >flask apply-job (job_id, applicant_name)
